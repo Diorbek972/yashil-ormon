@@ -1,7 +1,22 @@
+.fiksed{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  background-color: whitesmoke;
+  box-shadow: 10px 10px 30px 2px rgb(0, 0, 0);
+}
+.logotype{
+  width: 5%;
+}
 .navbar-icons i{
     margin-left: 20px;
   color: #3D3D3D;
 }
 .navbar-icons{
     margin-right: 20px;
+}
+/* birinchi qismi */
+.bosh-img img{
+  width: 600px !important;
 }
